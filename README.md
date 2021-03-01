@@ -1,2 +1,2 @@
-# Qu-n-tr-d-n-cntt
-Quản lí cửa bánh sinh nhật   'Cake-Heart'
+# Ngo Thi Huyen- D13HTTMDT2- Quan tri du an cong nghe thong tin
+Quản li cua hang banh sinh nhat 'Cake-Heart'
